@@ -53,7 +53,7 @@ def main():
     print("="*30)
     
     # API Key - Get this from openweathermap.org
-    api_key = "0c7ab34b4858219572ecbbd021bf5862"
+    api_key = "your-api-key-here"
     
     while True:
         # Get city name from user
